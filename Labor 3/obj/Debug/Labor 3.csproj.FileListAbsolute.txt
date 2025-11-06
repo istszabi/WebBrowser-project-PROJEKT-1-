@@ -1,0 +1,23 @@
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\Labor 3.exe.config
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\Labor 3.exe
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\Labor 3.pdb
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.csproj.AssemblyReference.cache
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor_3.Form1.resources
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor_3.Properties.Resources.resources
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.csproj.GenerateResource.cache
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.csproj.CoreCompileInputs.cache
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.exe
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.pdb
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.exe.config
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\EntityFramework.dll
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\System.Data.SQLite.dll
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\EntityFramework.xml
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor_3.Form2.resources
+C:\Users\istsz\source\repos\Labor 3\Labor 3\obj\Debug\Labor 3.csproj.Up2Date
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\System.Data.SQLite.xml
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\x86\sqlite3.dll
+C:\Users\istsz\source\repos\Labor 3\Labor 3\bin\Debug\x64\sqlite3.dll
